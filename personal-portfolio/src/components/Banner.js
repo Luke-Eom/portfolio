@@ -47,6 +47,7 @@ export const Banner = () => {
     }
   }
 
+// change composition
   return (
     <section className="banner" id="home">
       <Container>
